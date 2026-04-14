@@ -4,10 +4,11 @@
 - **Full Name**: Yash Pinjarkar
 - **Location**: India
 - **Email**: yashpinjarkar2003@gmail.com
-- **Portfolio Website**: [https://yashpinjarkar10.github.io/Yash-Website/](https://yashpinjarkar10.github.io/Yash-Website/) - Showcases my skills, projects, and professional background.
+- **Portfolio Website (Primary)**: [https://yashpinjarkar.dev/](https://yashpinjarkar.dev/) - Showcases my skills, projects, and professional background.
+- **Portfolio Website (Legacy)**: [https://yashpinjarkar10.github.io/Yash-Website/](https://yashpinjarkar10.github.io/Yash-Website/)
 
 ### Professional Social Media & Technical Platforms
-- **LinkedIn**: [http://www.linkedin.com/in/yash-pinjarkar](http://www.linkedin.com/in/yash-pinjarkar) - Connect with me for professional opportunities.
+- **LinkedIn**: [https://linkedin.com/in/yash-pinjarkar](https://linkedin.com/in/yash-pinjarkar) - Connect with me for professional opportunities.
 - **GitHub**: [https://github.com/yashpinjarkar10](https://github.com/yashpinjarkar10) - View my open-source contributions and projects.
 - **LeetCode**: [https://leetcode.com/u/Yashpinjarkar/](https://leetcode.com/u/Yashpinjarkar/) - Demonstrating problem-solving and coding proficiency through competitive programming.
 - **Hugging Face Spaces**: Multiple deployed ML/AI applications and demos
@@ -26,11 +27,11 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 - **Open Source Contributions**: Community-driven development and collaborative projects
 
 ## Core Competencies
-- **Generative AI Development** (LangChain, Hugging Face, Google Generative AI SDK)
+- **Generative AI Development** (LangChain, LangGraph, LangSmith, Hugging Face, MCP, Google Generative AI SDK)
 - **Machine Learning & Deep Learning** (TensorFlow, scikit-learn, CNNs, Transformers)
 - **Natural Language Processing (NLP)** (NLTK, RAG, Chatbot Development)
-- **Data Management & Retrieval** (AstraDB, ChromaDB, MySQL)
-- **Full-Stack AI Application Development** (FastAPI, Streamlit, Web Integration)
+- **Data Management & Retrieval** (AstraDB, ChromaDB, MySQL, PostgreSQL, Supabase)
+- **Full-Stack AI Application Development** (FastAPI, Streamlit, Web Integration, TypeScript)
 - **Large Language Models (LLMs) and Transformers**
 
 ## 3. Education & Academic Background
@@ -39,7 +40,7 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 - **Institution**: Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)
 - **Degree**: Bachelor of Technology (B.Tech), Computer Science and Engineering
 - **Duration**: 2022 – 2026
-- **CGPA**: 8.3
+- **CGPA**: 8.1/10
 - **Location**: Bilaspur, Chhattisgarh, India
 
 ### Key Coursework & Academic Excellence
@@ -53,17 +54,28 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 - **Software Engineering**: SDLC, project management, software testing
 
 ### Academic Achievements
-- Maintaining strong CGPA of 8.3 throughout the academic program
+- Maintaining strong CGPA of 8.1/10 throughout the academic program
 - Active participation in AI/ML workshops and technical seminars
 - Consistent high performance in core computer science subjects
 - Recognition for technical project development and innovation
 
-## 4. Technical Skills & Expertise
+## 4. Work Experience
+
+### **Astryx AI, Bengaluru**
+- **Role**: Software Engineer Intern
+- **Duration**: Oct 2025 – Mar 2026
+- Implemented a backtesting engine for options and cash strategies in Indian markets, generating 15+ KPIs and reducing manual analysis effort by ~90%.
+- Designed broker integration and trade execution microservices, enabling automated order placement.
+- Built a real-time market data pipeline and WebSocket microservice handling 10k+ events/min for low-latency streaming.
+- Developed scalable microservices architecture for trading workflows, improving system reliability and enabling seamless integration of AI-driven pipelines.
+- **Technologies**: Python, TypeScript, Node.js, FastAPI, PostgreSQL, Supabase, WebSockets, SSE
+
+## 5. Technical Skills & Expertise
 
 ### Programming Languages
 - **Proficient**: Python (Primary language for AI/ML development), JavaScript, HTML, CSS
-- **Intermediate**: Java, C++ (Strong foundation in data structures and competitive programming), SQL
-- **Familiar**: TypeScript, PHP, C
+- **Intermediate**: TypeScript, Java, C++ (Strong foundation in data structures and competitive programming), SQL
+- **Familiar**: PHP, C
 
 ### Machine Learning & Artificial Intelligence
 - **Deep Learning Frameworks**: 
@@ -76,12 +88,14 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 - **Natural Language Processing**:
   - **Transformers (Hugging Face)**: Pre-trained LLMs for NLP applications
   - **LangChain**: Framework for building context-aware chatbots and AI applications
+  - **LangGraph / LangSmith**: Agent orchestration and evaluation/observability workflows for LLM apps
   - **NLTK**: Natural language toolkit for text processing
   - **Beautiful Soup**: Web scraping and text extraction
 - **Computer Vision**: 
   - **OpenCV**: Image processing and computer vision applications
 - **AI Frameworks & Tools**:
   - **Phidata**: AI data pipelines and workflow automation
+  - **MCP (Model Context Protocol)**: Tool-augmented agent workflows and integrations
 
 ### Web Development & Frontend Technologies
 - **Frontend Development**: 
@@ -103,6 +117,8 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
   - **MySQL**: Relational database management and optimization
   - **PostgreSQL**: Advanced relational database systems
   - **SQLite**: Lightweight database for applications
+- **Backend-as-a-Service / Hosted DB**:
+  - **Supabase**: Postgres-based backend services (database, auth, realtime)
 - **NoSQL Databases**:
   - **MongoDB**: Document-oriented database
   - **Firebase**: Real-time database and backend services
@@ -133,7 +149,14 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 - **Technical Communication**: Documentation, presentation, and knowledge sharing
 - **Team Collaboration**: Collaborative development and code review processes
 
-## 5. Projects & Technical Implementations
+## 6. Projects & Technical Implementations
+
+### **Trading Agent**
+- Built an AI-powered trading analysis system offering technical, fundamental, and sentiment evaluations across any stock, along with an AI trading assistant.
+- Implemented FastAPI backend with 20+ technical indicators, valuation models, news sentiment scoring, TradingView chart integration, and REST endpoints for automated analysis.
+- Delivered a stable, production-ready platform producing unified analysis reports in ~6 seconds.
+- **GitHub Repository**: [https://github.com/yashpinjarkar10/Trading-Agent](https://github.com/yashpinjarkar10/Trading-Agent)
+- **Live Demo**: [https://yashpinjarkar10-trading-agent.hf.space/](https://yashpinjarkar10-trading-agent.hf.space/)
 
 ### **Financial Market Analysis Tool**
 - Developed an AI-powered **financial market analysis** tool providing real-time stock and cryptocurrency insights.
@@ -163,7 +186,8 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 ### **Portfolio Website**
 - Built a **responsive personal portfolio** to showcase projects, skills, and achievements.
 - Integrated **LangChain-powered chatbot** for interactive queries.
-- **Website**: [Portfolio](https://yashpinjarkar10.github.io/Yash-Website/)
+- **Website (Primary)**: [Portfolio](https://yashpinjarkar.dev/)
+- **Website (Legacy)**: [Portfolio](https://yashpinjarkar10.github.io/Yash-Website/)
 - **Technologies Used**: HTML, CSS, JavaScript, LangChain Integration.
 
 ### **Chat Web Application**  
@@ -205,12 +229,17 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
   - Dynamic 2D mathematical animations and visualizations
   - Interactive visual effects with smooth transitions
   - Creative mathematical and geometric pattern generation
-- **GitHub Repository**: [https://github.com/yashpinjarkar10/Cursor_2D_Animation](https://github.com/yashpinjarkar10/Cursor_2D_Animation)
-- **Live Demo**: [https://yashpinjarkar10-manim-animation.hf.space/](https://yashpinjarkar10-manim-animation.hf.space/)
+- **Latest Highlights**:
+  - Built a LangGraph DAG to generate executable Manim code.
+  - Implemented a RAG-grounded codegen + bounded auto-debug loop that uses documentation snippets and Manim render errors to produce a single corrective re-render.
+  - Delivered a Next.js / TypeScript Manim Studio web editor to assemble rendered scenes into cohesive videos with minimal manual effort.
+- **GitHub (Latest)**: [https://github.com/yashpinjarkar10/cursor-2d-animation-frontend](https://github.com/yashpinjarkar10/cursor-2d-animation-frontend)
+- **Live Demo (Latest)**: [https://cursor-2d-animation-frontend.yashpinjarkar2003.workers.dev/](https://cursor-2d-animation-frontend.yashpinjarkar2003.workers.dev/)
 
-## 6. Achievements, Certifications & Professional Recognition
+## 7. Achievements, Certifications & Professional Recognition
 
 ### **Recent Technical Certifications & Course Completions**
+- **Oracle Cloud Infrastructure (OCI) Certificate**
 - **Hands-On Generative AI with Diffusion Models: Building Real-World Applications**
   - **Issuing Organization**: LinkedIn Learning
   - **Skills Covered**: Generative AI, Diffusion Models, Machine Learning Applications, Image Generation
@@ -236,14 +265,14 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 - **AIIP Aptitude Test** – Participated and showcased **analytical & problem-solving skills**.
 
 ### **Technical Achievements & Milestones**
-- Solved **100+ LeetCode problems**, demonstrating **strong coding skills and algorithmic expertise**
+- Solved **210+ LeetCode problems**, demonstrating **strong coding skills and algorithmic expertise**
 - Successfully deployed multiple **AI/ML applications** on **Hugging Face Spaces**
 - Built and maintained **personal portfolio** showcasing comprehensive technical skills
 - Achieved **93% accuracy** in neural network model for pneumonia detection
 - Developed **92% predictive accuracy** for financial market trend analysis
 - Active contributor to **open-source projects** and community-driven development
 
-## 7. Additional Information & Languages
+## 8. Additional Information & Languages
 
 ### **Languages Known**
 - **Native**: Hindi, English
@@ -266,17 +295,17 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 
 ---
 
-## 8. Technical Keywords & Competencies
+## 9. Technical Keywords & Competencies
 
 **Core Technologies**: machine_learning, artificial_intelligence, deep_learning, generative_ai, neural_networks, nlp, chatbot_development, computer_vision, data_science
 
-**Programming & Frameworks**: python, javascript, c++, java, react, nodejs, tensorflow, pytorch, scikit_learn, langchain, transformers, hugging_face, streamlit, fastapi, flask
+**Programming & Frameworks**: python, javascript, typescript, c++, java, react, nextjs, nodejs, tensorflow, pytorch, scikit_learn, langchain, langgraph, langsmith, transformers, hugging_face, streamlit, fastapi, flask
 
 **Web Development**: full_stack_development, web_development, frontend_development, backend_development, responsive_design, api_development, real_time_applications
 
-**Data & Databases**: database_management, mysql, mongodb, chromadb, astradb, data_analysis, data_visualization, pandas, numpy
+**Data & Databases**: database_management, mysql, postgresql, supabase, mongodb, chromadb, astradb, data_analysis, data_visualization, pandas, numpy
 
-**Tools & Platforms**: version_control, git, github, docker, linux, cloud_deployment, jupyter_notebook, vs_code, pycha
+**Tools & Platforms**: version_control, git, github, docker, linux, cloud_deployment, huggingface_spaces, jupyter_notebook, vs_code, pycha
 
 **Specializations**: opencv, manim, interactive_animations, competitive_programming, algorithm_design, software_engineering, project_management
 
@@ -284,6 +313,6 @@ I am particularly interested in contributing to **open-source AI initiatives**, 
 
 ---
 
-*Last Updated: September 10, 2025*
+*Last Updated: April 14, 2026*
 *Comprehensive Knowledge Base - Yash Pinjarkar*
 
