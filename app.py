@@ -8,19 +8,24 @@ from langchain.chains.retrieval import create_retrieval_chain
 from langchain_chroma import Chroma
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
+from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 from starlette.middleware.cors import CORSMiddleware
+from langchain_mistralai import MistralAIEmbeddings
 
 load_dotenv()
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+MistrakAI_API_KEY = os.getenv("MistralAI")
 
 # Define the persistent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
-persistent_directory = os.path.join(current_dir, "db", "chroma_db")
+persistent_directory = os.path.join(current_dir, "db100", "chroma_db100")
 
 # Initialize embeddings
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001", api_key=GOOGLE_API_KEY)
+embeddings = MistralAIEmbeddings(
+    model="mistral-embed",
+    api_key=MistrakAI_API_KEY
+)
 
 # Load the existing vector store with the embedding function
 db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
@@ -29,7 +34,7 @@ db = Chroma(persist_directory=persistent_directory, embedding_function=embedding
 retriever = db.as_retriever(search_type="similarity", search_kwargs={"k": 5})
 
 # Initialize the LLM
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", api_key=GOOGLE_API_KEY)
+llm = ChatGroq(model="llama-3.1-8b-instant", api_key=GROQ_API_KEY)
 
 # Contextualize question prompt
 contextualize_q_system_prompt = (
@@ -130,4 +135,4 @@ async def chat(chat_request: ChatRequest):
 # Run the FastAPI app
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8080)

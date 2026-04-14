@@ -1,0 +1,289 @@
+# Yash Pinjarkar - Comprehensive Knowledge Base & Professional Profile
+
+## 1. Personal Information & Contact Details
+- **Full Name**: Yash Pinjarkar
+- **Location**: India
+- **Email**: yashpinjarkar2003@gmail.com
+- **Portfolio Website**: [https://yashpinjarkar10.github.io/Yash-Website/](https://yashpinjarkar10.github.io/Yash-Website/) - Showcases my skills, projects, and professional background.
+
+### Professional Social Media & Technical Platforms
+- **LinkedIn**: [http://www.linkedin.com/in/yash-pinjarkar](http://www.linkedin.com/in/yash-pinjarkar) - Connect with me for professional opportunities.
+- **GitHub**: [https://github.com/yashpinjarkar10](https://github.com/yashpinjarkar10) - View my open-source contributions and projects.
+- **LeetCode**: [https://leetcode.com/u/Yashpinjarkar/](https://leetcode.com/u/Yashpinjarkar/) - Demonstrating problem-solving and coding proficiency through competitive programming.
+- **Hugging Face Spaces**: Multiple deployed ML/AI applications and demos
+
+## 2. Professional Summary
+I am a passionate Machine Learning and Artificial Intelligence engineer currently pursuing a **Bachelor of Technology (B.Tech) in Computer Science and Engineering** from **Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)**. I specialize in developing innovative AI/ML solutions with hands-on experience in **Generative AI**, **Neural Networks**, and **Natural Language Processing (NLP)**. 
+
+My technical expertise encompasses building and optimizing **LLM-powered applications, chatbot development, and data-driven AI systems**. I excel in creating interactive user experiences, web development, and data visualization projects. With a solid foundation in **Python, JavaScript, and C++**, I actively work on **AI research, deep learning model development, full-stack development, and software engineering projects**. 
+
+I am particularly interested in contributing to **open-source AI initiatives**, creating real-world applications, and staying ahead in the rapidly evolving landscape of **Generative AI**, **Machine Learning**, and **Web Development**.
+
+### Personal Interests & Focus Areas
+- **Web Development & Programming**: Full-stack development, interactive applications
+- **Artificial Intelligence & Machine Learning**: Generative AI, deep learning, neural networks
+- **Data Visualization & Animation**: Interactive animations, data-driven visualizations
+- **Open Source Contributions**: Community-driven development and collaborative projects
+
+## Core Competencies
+- **Generative AI Development** (LangChain, Hugging Face, Google Generative AI SDK)
+- **Machine Learning & Deep Learning** (TensorFlow, scikit-learn, CNNs, Transformers)
+- **Natural Language Processing (NLP)** (NLTK, RAG, Chatbot Development)
+- **Data Management & Retrieval** (AstraDB, ChromaDB, MySQL)
+- **Full-Stack AI Application Development** (FastAPI, Streamlit, Web Integration)
+- **Large Language Models (LLMs) and Transformers**
+
+## 3. Education & Academic Background
+
+### Current Education
+- **Institution**: Guru Ghasidas Vishwavidyalaya, Bilaspur (C.G)
+- **Degree**: Bachelor of Technology (B.Tech), Computer Science and Engineering
+- **Duration**: 2022 – 2026
+- **CGPA**: 8.3
+- **Location**: Bilaspur, Chhattisgarh, India
+
+### Key Coursework & Academic Excellence
+- **Data Structures & Algorithms**: Advanced algorithmic techniques, problem-solving strategies, complexity analysis
+- **Database Management Systems (DBMS)**: SQL, NoSQL, indexing, optimization, query processing
+- **Operating Systems**: Process scheduling, memory management, concurrency, system calls
+- **Artificial Intelligence**: Machine learning models, supervised & unsupervised learning, neural networks
+- **Design and Analysis of Algorithms (DAA)**: Algorithm complexity, dynamic programming, greedy algorithms
+- **System Software**: Low-level programming, compiler design, automation, system programming
+- **Computer Networks**: Network protocols, TCP/IP, network security
+- **Software Engineering**: SDLC, project management, software testing
+
+### Academic Achievements
+- Maintaining strong CGPA of 8.3 throughout the academic program
+- Active participation in AI/ML workshops and technical seminars
+- Consistent high performance in core computer science subjects
+- Recognition for technical project development and innovation
+
+## 4. Technical Skills & Expertise
+
+### Programming Languages
+- **Proficient**: Python (Primary language for AI/ML development), JavaScript, HTML, CSS
+- **Intermediate**: Java, C++ (Strong foundation in data structures and competitive programming), SQL
+- **Familiar**: TypeScript, PHP, C
+
+### Machine Learning & Artificial Intelligence
+- **Deep Learning Frameworks**: 
+  - **TensorFlow**: Deep learning framework for building and training neural networks
+  - **PyTorch**: Advanced neural network development and research
+  - **Scikit-learn**: ML algorithms for classification, regression, and clustering
+- **Data Science & Analysis**:
+  - **NumPy and Pandas**: Data manipulation, analysis, and statistical computing
+  - **Matplotlib**: Data visualization and plotting
+- **Natural Language Processing**:
+  - **Transformers (Hugging Face)**: Pre-trained LLMs for NLP applications
+  - **LangChain**: Framework for building context-aware chatbots and AI applications
+  - **NLTK**: Natural language toolkit for text processing
+  - **Beautiful Soup**: Web scraping and text extraction
+- **Computer Vision**: 
+  - **OpenCV**: Image processing and computer vision applications
+- **AI Frameworks & Tools**:
+  - **Phidata**: AI data pipelines and workflow automation
+
+### Web Development & Frontend Technologies
+- **Frontend Development**: 
+  - **React**: Component-based web applications
+  - **HTML5, CSS3**: Modern web standards and responsive design
+  - **Bootstrap**: CSS framework for responsive design
+- **Backend Development**:
+  - **Node.js, Express.js**: Server-side JavaScript development
+  - **Flask**: Python web framework for API development
+  - **FastAPI**: High-performance API framework for Python
+- **Interactive Applications**:
+  - **Streamlit**: Interactive AI dashboards and web-based data visualization
+- **Animation & Visualization**:
+  - **Manim**: Mathematical animation engine
+  - **D3.js**: Data-driven document visualization
+
+### Database Management & Data Storage
+- **SQL Databases**: 
+  - **MySQL**: Relational database management and optimization
+  - **PostgreSQL**: Advanced relational database systems
+  - **SQLite**: Lightweight database for applications
+- **NoSQL Databases**:
+  - **MongoDB**: Document-oriented database
+  - **Firebase**: Real-time database and backend services
+- **Vector & Cloud Databases**:
+  - **AstraDB**: NoSQL cloud-based database for AI applications
+  - **ChromaDB**: Vector database for efficient document retrieval and similarity search
+
+### Development Tools & DevOps
+- **Version Control**: Git & GitHub (Code collaboration, version control, and project management)
+- **Development Environments**: 
+  - **VS Code**: Primary IDE with extensions for multiple languages
+  - **PyCharm**: Python-specific integrated development environment
+  - **Jupyter Notebook**: Interactive computing and data analysis
+- **Cloud Platforms & Deployment**:
+  - **Hugging Face Spaces**: ML/AI application hosting and deployment
+  - **Heroku**: Cloud platform for web application deployment
+  - **GitHub Pages**: Static website hosting
+- **System Administration**:
+  - **Docker**: Containerization and application deployment
+  - **Linux**: Command-line proficiency and system administration
+  - **Command Line**: Advanced terminal and shell scripting
+
+### Soft Skills & Professional Competencies
+- **Problem Solving**: Analytical thinking and algorithmic problem-solving
+- **Creative Thinking**: Innovation in project design and solution architecture  
+- **Self-Learning**: Continuous skill development and technology adoption
+- **Project Management**: Planning, execution, and delivery of technical projects
+- **Technical Communication**: Documentation, presentation, and knowledge sharing
+- **Team Collaboration**: Collaborative development and code review processes
+
+## 5. Projects & Technical Implementations
+
+### **Financial Market Analysis Tool**
+- Developed an AI-powered **financial market analysis** tool providing real-time stock and cryptocurrency insights.
+- Implemented **sentiment analysis**, **market trends tracking**, and **Gemini AI chatbot** integration.
+- Achieved **92% predictive accuracy** for stock trends using a trained ML model.
+- Implemented automated **market data updates and news aggregation**.
+- **Technologies Used**: TensorFlow, Python, Streamlit, Gemini AI, API Integration.
+
+### **Video AI Summarizer Agent**
+- Built a **multimodal AI-powered video analysis tool** for summarization and insight generation.
+- Integrated **Google Gemini 2.0 Flash Exp** for video analysis and **DuckDuckGo API** for web research.
+- Users can **upload videos, ask specific questions, and receive concise AI-generated responses**.
+- **Technologies Used**: Streamlit, Python, Google Generative AI SDK, API Integration.
+
+### **Neural Network for Pneumonia Detection**
+- Developed a **CNN model** using **TensorFlow** with **93% accuracy** for pneumonia detection from X-ray images.
+- Processed over **5,000+ medical images** for advanced **medical image classification**.
+- **Technologies Used**: TensorFlow, Python, Computer Vision, Medical Image Processing.
+
+### **RAG Chatbot (Retrieval-Augmented Generation Chatbot)**
+- Designed a **FastAPI-based chatbot** leveraging **Google Generative AI** and **ChromaDB**.
+- Features **document retrieval, chat history storage, and history-aware queries**.
+- Deployed on **Hugging Face Spaces** with **interactive AI-driven responses**.
+- **Deployment**: [FastAPI Chatbot](https://yashpinjarkar10-webchat1.hf.space)
+- **Technologies Used**: FastAPI, LangChain, ChromaDB, Google Generative AI.
+
+### **Portfolio Website**
+- Built a **responsive personal portfolio** to showcase projects, skills, and achievements.
+- Integrated **LangChain-powered chatbot** for interactive queries.
+- **Website**: [Portfolio](https://yashpinjarkar10.github.io/Yash-Website/)
+- **Technologies Used**: HTML, CSS, JavaScript, LangChain Integration.
+
+### **Chat Web Application**  
+- **Description**: A web-based chat application enabling real-time communication between users
+- **Technologies Used**: Web Technologies, Real-time Communication APIs, WebSocket
+- **Key Features**:
+  - Real-time messaging with instant message delivery
+  - User-friendly and responsive interface design
+  - Multi-user support with concurrent connections
+  - Message history and conversation management
+- **GitHub Repository**: [https://github.com/yashpinjarkar10/Chat-Web](https://github.com/yashpinjarkar10/Chat-Web)
+- **Live Demo**: [https://yashpinjarkar10-webchat1.hf.space/](https://yashpinjarkar10-webchat1.hf.space/)
+
+### **VidAnalyze**
+- **Description**: A video analysis tool that processes and extracts insights from video content
+- **Technologies Used**: Python, Computer Vision, Video Processing Libraries, OpenCV
+- **Key Features**:
+  - Comprehensive video content analysis and processing
+  - Data extraction from video files and streams
+  - Automated video processing with batch capabilities
+  - Insights generation and analytical reporting
+- **GitHub Repository**: [https://github.com/yashpinjarkar10/VidAnalyze](https://github.com/yashpinjarkar10/VidAnalyze)
+
+### **AI Journalist**
+- **Description**: An AI-powered application that generates news articles and journalistic content
+- **Technologies Used**: Python, Natural Language Processing, AI/ML Libraries, GPT Integration
+- **Key Features**:
+  - Automated content generation with AI assistance
+  - AI-powered writing assistance and content optimization
+  - News article formatting and structure generation
+  - Content analysis and sentiment evaluation capabilities
+- **GitHub Repository**: [https://github.com/yashpinjarkar10/AI-Journalist](https://github.com/yashpinjarkar10/AI-Journalist)
+
+### **Cursor 2D Animation**
+- **Description**: An interactive 2D animation project that creates visual effects following cursor movement
+- **Technologies Used**: Python, Manim, Animation Libraries
+- **Key Features**:
+  - Real-time cursor tracking and responsive animation
+  - Dynamic 2D mathematical animations and visualizations
+  - Interactive visual effects with smooth transitions
+  - Creative mathematical and geometric pattern generation
+- **GitHub Repository**: [https://github.com/yashpinjarkar10/Cursor_2D_Animation](https://github.com/yashpinjarkar10/Cursor_2D_Animation)
+- **Live Demo**: [https://yashpinjarkar10-manim-animation.hf.space/](https://yashpinjarkar10-manim-animation.hf.space/)
+
+## 6. Achievements, Certifications & Professional Recognition
+
+### **Recent Technical Certifications & Course Completions**
+- **Hands-On Generative AI with Diffusion Models: Building Real-World Applications**
+  - **Issuing Organization**: LinkedIn Learning
+  - **Skills Covered**: Generative AI, Diffusion Models, Machine Learning Applications, Image Generation
+  - **Certificate Link**: [View Certificate](https://github.com/yashpinjarkar10/Certificates/blob/main/CertificateOfCompletion_HandsOn%20Generative%20AI%20with%20Diffusion%20Models%20Building%20RealWorld%20Applications.pdf)
+
+- **Programming Fundamentals Certificate**
+  - **Skills Covered**: Programming fundamentals, software development methodologies, coding best practices
+  - **Certificate Link**: [View Certificate](https://github.com/yashpinjarkar10/Certificates/blob/main/eCertificate.pdf)
+
+- **Data Structures & Algorithm Certification** – Verified proficiency in algorithmic problem-solving, time complexity optimization, and data structure implementation through rigorous coursework and assessments.
+
+### **Advanced AI/ML Certifications & Specializations**
+- **Applied AI: Hugging Face Transformers** – Learned how to apply **pre-trained transformer models** in real-world **NLP, text classification, sentiment analysis, and chatbots**.
+- **AI Workshop: Advanced Chatbot Development** – Covered **LLMs, NLP, chatbot frameworks**, including **RAG-based conversational AI systems, multimodal interactions, and reinforcement learning techniques**.
+- **Generative AI and Diffusion Models** - LinkedIn Learning (Advanced level)
+- **Machine Learning and AI Fundamentals** - Comprehensive ML/AI theory and practical applications
+- **Various Programming and Development Courses** - Full-stack development, algorithms, data structures
+
+### **Professional Recognition & Awards**
+- **Naukri Campus Young Turks** – **Certificate of Merit** for outstanding technical potential.
+
+### **Competitions & Technical Participation**
+- **AIIP Aptitude Test** – Participated and showcased **analytical & problem-solving skills**.
+
+### **Technical Achievements & Milestones**
+- Solved **100+ LeetCode problems**, demonstrating **strong coding skills and algorithmic expertise**
+- Successfully deployed multiple **AI/ML applications** on **Hugging Face Spaces**
+- Built and maintained **personal portfolio** showcasing comprehensive technical skills
+- Achieved **93% accuracy** in neural network model for pneumonia detection
+- Developed **92% predictive accuracy** for financial market trend analysis
+- Active contributor to **open-source projects** and community-driven development
+
+## 7. Additional Information & Languages
+
+### **Languages Known**
+- **Native**: Hindi, English
+- **Fluent**: Hindi, English (Professional proficiency)
+- **Programming Languages**: Python, JavaScript, C++, Java, SQL (Technical fluency)
+
+### **Hobbies & Personal Interests**
+- **Technology Innovation**: Exploring cutting-edge AI/ML technologies and frameworks
+- **Open Source Development**: Contributing to community projects and collaborative coding
+- **Problem Solving**: Competitive programming and algorithmic challenges
+- **Creative Coding**: Interactive animations, data visualizations, and creative applications
+- **Continuous Learning**: Staying updated with latest tech trends and industry developments
+
+### **Professional Development Goals**
+- Advancing expertise in **Generative AI** and **Large Language Models**
+- Contributing to **open-source AI initiatives** and community projects
+- Developing **scalable AI applications** for real-world problem solving
+- Building expertise in **MLOps** and **AI deployment** at scale
+- Pursuing advanced specialization in **Computer Vision** and **NLP**
+
+---
+
+## 8. Technical Keywords & Competencies
+
+**Core Technologies**: machine_learning, artificial_intelligence, deep_learning, generative_ai, neural_networks, nlp, chatbot_development, computer_vision, data_science
+
+**Programming & Frameworks**: python, javascript, c++, java, react, nodejs, tensorflow, pytorch, scikit_learn, langchain, transformers, hugging_face, streamlit, fastapi, flask
+
+**Web Development**: full_stack_development, web_development, frontend_development, backend_development, responsive_design, api_development, real_time_applications
+
+**Data & Databases**: database_management, mysql, mongodb, chromadb, astradb, data_analysis, data_visualization, pandas, numpy
+
+**Tools & Platforms**: version_control, git, github, docker, linux, cloud_deployment, jupyter_notebook, vs_code, pycha
+
+**Specializations**: opencv, manim, interactive_animations, competitive_programming, algorithm_design, software_engineering, project_management
+
+**Professional Skills**: problem_solving, technical_communication, self_learning, innovation, collaboration, professional_recognition
+
+---
+
+*Last Updated: September 10, 2025*
+*Comprehensive Knowledge Base - Yash Pinjarkar*
+
