@@ -1,3 +1,9 @@
+title: Webchat1
+emoji: 🦀
+colorFrom: green
+colorTo: pink
+sdk: docker
+pinned: false
 # FastAPI Chatbot
 
 This project is a FastAPI-based chatbot with Retrieval-Augmented Generation (RAG) capabilities, deployed on Hugging Face Spaces. The chatbot leverages Google Generative AI models and a Chroma vector database to provide contextual responses based on chat history and retrieved documents.
