@@ -6,13 +6,14 @@ sdk: docker
 pinned: false
 # FastAPI Chatbot
 
-This project is a FastAPI-based chatbot with Retrieval-Augmented Generation (RAG) capabilities, deployed on Hugging Face Spaces. The chatbot leverages Google Generative AI models and a Chroma vector database to provide contextual responses based on chat history and retrieved documents.
+This project is a FastAPI-based chatbot with Retrieval-Augmented Generation (RAG) capabilities, deployed on Hugging Face Spaces. The chatbot uses Groq for chat completion, Mistral for embeddings, and a Chroma vector database to provide contextual responses based on chat history and retrieved documents.
 
 ## Deployment Link
 [FastAPI Chatbot on Hugging Face Spaces](https://yashpinjarkar10-webchat1.hf.space)
 
 ## Features
-- Uses Google Generative AI models for embeddings and chat responses.
+- Uses Groq for chat responses.
+- Uses Mistral for embeddings.
 - Implements Retrieval-Augmented Generation (RAG) for better contextual responses.
 - Stores and retrieves chat history for improved conversations.
 - Includes history-aware retrieval to refine user queries.
@@ -21,7 +22,8 @@ This project is a FastAPI-based chatbot with Retrieval-Augmented Generation (RAG
 ## Technologies Used
 - **FastAPI**: Web framework for the chatbot API.
 - **LangChain**: Framework for building LLM-based applications.
-- **Google Generative AI**: Provides embeddings and chat responses.
+- **Groq**: Provides chat completions.
+- **Mistral**: Provides embeddings.
 - **Chroma**: Vector database for document storage and retrieval.
 - **Uvicorn**: ASGI server for running FastAPI.
 
@@ -37,13 +39,27 @@ This project is a FastAPI-based chatbot with Retrieval-Augmented Generation (RAG
    ```
 3. Set up environment variables in a `.env` file:
    ```
-   GOOGLE_API_KEY=your_google_api_key
+  GROQ_API_KEY=your_groq_api_key
+  MistralAI=your_mistral_api_key
    ```
 4. Run the FastAPI server:
    ```bash
-   uvicorn main:app --host 0.0.0.0 --port 8000
+  uvicorn app.main:app --host 0.0.0.0 --port 8080
    ```
-5. Access the API at `http://localhost:8000`.
+5. Access the API at `http://localhost:8080`.
+
+## Project Structure
+```
+app/
+  main.py              # FastAPI app factory + middleware
+  api/routes/chat.py   # API routes
+  services/rag.py      # RAG chain setup (Groq + Chroma + Mistral embeddings)
+  core/config.py       # env + paths
+scripts/
+  build_vectorstore.py # builds the Chroma store from information.txt
+db100/                 # persisted Chroma DB (existing)
+information.txt        # source data (you can move this to data/information.txt)
+```
 
 ## API Endpoints
 ### Home Route
