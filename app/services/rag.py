@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_groq import ChatGroq
 from langchain_mistralai import MistralAIEmbeddings
 
-from app.core.config import settings
+from app.config import settings
 
 
 @lru_cache(maxsize=1)

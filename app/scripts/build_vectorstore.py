@@ -8,7 +8,7 @@ from langchain_chroma import Chroma
 from langchain_core.documents import Document
 from langchain_mistralai import MistralAIEmbeddings
 
-from app.core.config import settings
+from app.config import settings
 
 
 def _hard_split_text(text: str, *, chunk_size: int, chunk_overlap: int) -> list[str]:

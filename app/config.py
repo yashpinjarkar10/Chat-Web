@@ -21,20 +21,20 @@ class Settings:
 
 def _default_information_file(base_dir: Path) -> Path:
     # Prefer the "data/" folder if present, otherwise fall back to the existing root file.
-    data_path = base_dir / "data" / "information.txt"
+    data_path = base_dir / "app" / "data" / "information.txt"
     if data_path.exists():
         return data_path
-    return base_dir / "information.txt"
+    return base_dir / "app" / "information.txt"
 
 
-BASE_DIR = Path(__file__).resolve().parents[2]
+BASE_DIR = Path(__file__).resolve().parents[1]
 
 settings = Settings(
     base_dir=BASE_DIR,
     groq_api_key=os.getenv("GROQ_API_KEY"),
     mistral_api_key=os.getenv("MistralAI"),
     chroma_persist_dir=Path(
-        os.getenv("CHROMA_PERSIST_DIR", str(BASE_DIR / "db100" / "chroma_db100"))
+        os.getenv("CHROMA_PERSIST_DIR", str(BASE_DIR / "app" / "db" / "chroma_db100"))
     ),
     information_file=Path(os.getenv("INFORMATION_FILE", str(_default_information_file(BASE_DIR)))),
     cors_allow_origins=os.getenv("CORS_ALLOW_ORIGINS", "*").split(","),

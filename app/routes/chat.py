@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException
 from langchain_core.messages import AIMessage, HumanMessage
 
-from app.schemas.chat import ChatRequest, ChatResponse
+from app.schema.chat import ChatRequest, ChatResponse
 from app.services.rag import get_rag_chain
 
 router = APIRouter()
